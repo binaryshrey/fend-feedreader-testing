@@ -6,7 +6,7 @@
 Jasmine documentaion can be found [here](https://jasmine.github.io/)
 
 # Getting Started
-- Follow this site or clone the repo on to your system
+- Follow this [site](https://binaryshrey.github.io/fend-feedreader-testing/) or clone the repo on to your system
 - Extract the .zip file
 - Open index.html in your browser.
 
